@@ -1,2 +1,1 @@
-Please use this repo to report problems when using Hardenize's public
-assessment tools.
+Please use this repo to report problems with Hardenize's public tools.
